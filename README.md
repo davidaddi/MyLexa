@@ -97,4 +97,4 @@ To get alexa running during all our script, we need to run this loop :
 <pre>
 while True:
     run_alexa()
-<pre>
+</pre>
